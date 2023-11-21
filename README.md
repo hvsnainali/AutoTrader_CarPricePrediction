@@ -30,10 +30,4 @@ The project utilizes a Car Sale Adverts dataset provided by AutoTrader, containi
 - A brief, structured report with code snippets and explanations.
 - A fully-documented, reproducible Python notebook showcasing the work undertaken.
 
-## Usage
-
-To replicate the analysis and reproduce the results, follow the instructions provided in the Python notebook.
-
-## Acknowledgments
-
-Special thanks to AutoTrader for providing the dataset and contributing to the real-world relevance of this project.
+more....%
